@@ -1,3 +1,5 @@
+#pragma once
+
 namespace MathUtils
 {
     int add(int &a, int &b);
