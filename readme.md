@@ -11,4 +11,5 @@ On windows:
 1. mkdir build
 2. cd build
 3. cmake ..
-4. cmake --build 
+   This builds the project based on the parent directory
+5. cmake --build 
